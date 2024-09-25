@@ -1,0 +1,14 @@
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\bin\Debug\net8.0\project c.exe
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\bin\Debug\net8.0\project c.deps.json
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\bin\Debug\net8.0\project c.runtimeconfig.json
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\bin\Debug\net8.0\project c.dll
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\bin\Debug\net8.0\project c.pdb
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.AssemblyInfoInputs.cache
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.AssemblyInfo.cs
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.csproj.CoreCompileInputs.cache
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.dll
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\refint\project c.dll
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.pdb
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\project c.genruntimeconfig.cache
+C:\Users\ben10\OneDrive\Desktop\Projetos\Meu\project c\obj\Debug\net8.0\ref\project c.dll
